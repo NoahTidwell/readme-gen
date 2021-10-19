@@ -1,6 +1,9 @@
-# README Generator
+
+    # README Generator
+
     ## Licensing:
     [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
     ## Table of Contents 
     - [Description](#description)
     - [Installation](#installation)
@@ -8,18 +11,26 @@
     - [Contribution](#contribution)
     - [Testing](#testing)
     - [Additional Info](#additional-info)
+
     ## Description:
-    Generate a README from command line inputs
+    Generate a professional README from the command line
+
     ## Installation:
-    node js and inquirer npm
+    Node JS and Inquirer NPM required to run project
+
     ## Usage:
-    run the project on the command line to generate a professional readme
+    Answer the questions in the command line prompt to generate a professional README
+
     ## License:
     MIT
+
     ## Contribution:
-    Pull Request
+    Pull Request or Fork
+
     ## Testing:
-    Command Line
+    COMMAND LINE INTERFACE
+
     ## Additional Info:
     - Github: [NoahTidwell](https://github.com/NoahTidwell)
-    - Email: ntidwell34@yahoo.com 
+    - Email: ntidwell34@yahoo.com
+     
