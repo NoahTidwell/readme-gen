@@ -1,36 +1,35 @@
+# README Generator
 
-    # README Generator
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-    ## Licensing:
-    [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
 
-    ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contribution](#contribution)
-    - [Testing](#testing)
-    - [Additional Info](#additional-info)
+## Description:
+Generate a professional README from the command line
 
-    ## Description:
-    Generate a professional README from the command line
+## Installation:
+Install Node JS and Inquirer NPM
 
-    ## Installation:
-    Node JS and Inquirer NPM required to run project
+## Usage:
+Run the command line prompt questions to generate a professional README
 
-    ## Usage:
-    Answer the questions in the command line prompt to generate a professional README
+## License:
+MIT
 
-    ## License:
-    MIT
+## Contribution:
+Pull Request or Fork
 
-    ## Contribution:
-    Pull Request or Fork
+## Testing:
+Test in Command Line Interface
 
-    ## Testing:
-    COMMAND LINE INTERFACE
-
-    ## Additional Info:
-    - Github: [NoahTidwell](https://github.com/NoahTidwell)
-    - Email: ntidwell34@yahoo.com
+## Additional Info:
+- Github: [NoahTidwell](https://github.com/NoahTidwell)
+- Email: ntidwell34@yahoo.com
      

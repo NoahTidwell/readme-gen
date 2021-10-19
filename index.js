@@ -1,7 +1,7 @@
 //node modules
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateReadme = require('./src/template.js');
+const generateReadme = require('./src/template.js')
 
 //inquirer to generate questions
 const userQuestions = [
@@ -125,6 +125,7 @@ const userQuestions = [
         message: 'Would you like to include your email?',
     },
 ];
+
 const writeToFile = (fileName, data) => {
     fs.writeFile(fileName, data, err => {
         if (err) {
