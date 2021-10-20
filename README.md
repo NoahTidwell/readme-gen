@@ -1,3 +1,4 @@
+
 # README Generator
 
 ## Licensing:
@@ -12,13 +13,13 @@
 - [Additional Info](#additional-info)
 
 ## Description:
-Generate a professional README from the command line
+Generate a README using inputs from the Command Line
 
 ## Installation:
-Install Node JS and Inquirer NPM
+Clone the repo onto your local machine. Initiate question prompt with node index on the command line. Answer the questions and a README will be generated using the inputs from the user.
 
 ## Usage:
-Run the command line prompt questions to generate a professional README
+Use this application to generate a README for your project
 
 ## License:
 MIT
@@ -27,9 +28,8 @@ MIT
 Pull Request or Fork
 
 ## Testing:
-Test in Command Line Interface
+in command line
 
 ## Additional Info:
 - Github: [NoahTidwell](https://github.com/NoahTidwell)
 - Email: ntidwell34@yahoo.com
-     
