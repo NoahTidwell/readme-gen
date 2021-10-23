@@ -30,6 +30,9 @@ Pull Request or Fork
 ## Testing:
 in command line
 
+## Demo:
+https://watch.screencastify.com/v/yUbuqcw3GQ9wBeyUQE5T
+
 ## Additional Info:
 - Github: [NoahTidwell](https://github.com/NoahTidwell)
 - Email: ntidwell34@yahoo.com
